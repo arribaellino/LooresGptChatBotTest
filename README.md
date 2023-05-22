@@ -59,3 +59,13 @@ env
 to complete the preconditions is necesary to install the 'shell-gpt' pkg as follow
 
 pip3 install shell-gpt --user
+
+now we need to connect our char gpt to the whatsapp or telegram 
+
+//==url to connect the telegrar or whatsapp chat manager==//
+https://buddygpt.ai/ref/davinder
+
+
+the tap in the button "get for whatsapp" or "get for telegram"
+
+
